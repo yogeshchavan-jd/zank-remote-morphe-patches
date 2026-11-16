@@ -2,21 +2,23 @@
 
 Custom Morphe patch bundle for [Zank Remote](https://play.google.com/store/apps/details?id=zank.remote) (Android & Android TV remote controller).
 
-[![Add to Morphe](https://img.shields.io/badge/Morphe-Add_to_Manager-blue?style=for-the-badge&logo=android)](https://morphe.software/add-source?github=yogeshchavan-jd/zank-remote-morphe-patches)
+<a href="https://morphe.software/add-source?github=yogeshchavan-jd/zank-remote-morphe-patches">
+  <img src=".github/assets/add-to-morphe.svg" alt="Add to Morphe" height="48">
+</a>
 
 ---
 
-## Included Patches
+## 🩹 Patches list
 
-| Patch | Description | Default |
-| :--- | :--- | :--- |
-| **Disable signature check** | Bypasses PairIP Play Integrity and license checks to allow patched APKs to run without forced Play Store license validation. | ✅ Yes |
-| **Unlock Pro** | Unlocks Pro features including Air Mouse mode and Floating Remote without requiring in-app subscription. | ✅ Yes |
-| **Remove Ads** | Suppresses App Open ads and interstitial ad loops. | ✅ Yes |
+<!-- PATCHES_START EXPANDED -->
+
+#### A list of your patches will automatically be shown here after your first patches release is created.
+
+<!-- PATCHES_END -->
 
 ---
 
-## How to Use
+## ❓ How to Use
 
 ### Method 1: Direct Deep Link (Morphe Manager)
 1. Install [Morphe Manager](https://github.com/MorpheApp/morphe-manager) on your Android device or Android TV.
@@ -36,15 +38,15 @@ Download the latest `patches-<version>.mpp` from [Releases](https://github.com/y
 
 ---
 
-## Submitting to `morphe-patches.software`
+## 🌐 Submitting to `morphe-patches.software`
 
-Once published on GitHub with the first automated release:
+Once the automated release completes:
 1. Navigate to [morphe-patches.software](https://morphe-patches.software).
 2. Click **Submit a bundle**.
 3. Submit repository URL: `https://github.com/yogeshchavan-jd/zank-remote-morphe-patches`.
 
 ---
 
-## License
+## 📜 License
 
 GPL-3.0
