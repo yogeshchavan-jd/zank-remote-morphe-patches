@@ -11,8 +11,25 @@ Custom Morphe patch bundle for [Zank Remote](https://play.google.com/store/apps/
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0](https://github.com/yogeshchavan-jd/zank-remote-morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;3 patches total
+<details open>
+<summary>📦 Zank Remote&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
+<br>
 
-#### A list of your patches will automatically be shown here after your first patches release is created.
+**Package name:** `zank.remote`
+
+**🎯 Supported versions:**
+
+| 21.0.7 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable signature check](#disable-signature-check) | Bypasses PairIP Play Integrity and license checks to allow patched APKs to run. |  |
+| [Remove Ads](#remove-ads) | Disables App Open ads and interstitial ad prompts. |  |
+| [Unlock Pro](#unlock-pro) | Unlocks Pro features including Air Mouse mode and Floating Remote without subscription. |  |
+
+</details>
 
 <!-- PATCHES_END -->
 
